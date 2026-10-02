@@ -67,15 +67,3 @@ python -m simulation.simulasi_undo
 ```bash
 python -m unittest discover -v
 ```
-
-## Pemetaan ke Lembar Aktivitas
-
-- Nomor 1: karakteristik permasalahan dan operasi.
-- Nomor 2: program Python dan repository GitHub.
-- Nomor 3–4: Queue untuk antrean dan Stack untuk Undo, beserta alasan.
-- Nomor 5 dan 7: data serta simulasi antrean.
-- Nomor 6 dan 9: data serta simulasi aktivitas Undo.
-- Nomor 8 dan 10: screenshot kode simulasi.
-- Nomor 11 dan 13: kesimpulan kondisi sebelum/sesudah simulasi.
-- Nomor 12 dan 14: Unit Testing.
-- Nomor 15: analisis kompleksitas waktu.
