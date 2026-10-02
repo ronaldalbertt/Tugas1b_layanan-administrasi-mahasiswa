@@ -1,6 +1,5 @@
 from src.services.layanan_service import LayananAdministrasi
 
-
 aktivitas = [
     ("01-10-2026 08:00:00", "Tambah Data", "Menambahkan mahasiswa Andi Pratama"),
     ("01-10-2026 08:05:00", "Ubah Data", "Mengubah data mahasiswa Budi Santoso"),

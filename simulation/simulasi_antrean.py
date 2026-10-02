@@ -1,6 +1,5 @@
 from src.services.layanan_service import LayananAdministrasi
 
-
 data_mahasiswa = [
     "Andi Pratama",
     "Budi Santoso",

@@ -3,7 +3,7 @@ from dataclasses import dataclass
 
 @dataclass
 class Aktivitas:
-    """Merepresentasikan satu riwayat aktivitas petugas untuk fitur Undo."""
+    # Merepresentasikan satu riwayat aktivitas petugas untuk fitur Undo.
 
     tanggal_jam: str
     jenis: str
